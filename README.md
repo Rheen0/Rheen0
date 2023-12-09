@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋! My name is Rhandie<br>I'm a scholar from the Polytechnic University of the Philippines</h1>
+
+<div align="center">
+  <img height="150" src="https://tenor.com/view/pochita-spin-gif-27288432.gif"  />
+</div>
+
+<h1 align="center">Greetings, I'm Rhandie!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rheen0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rheen0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://tenor.com/view/pochita-spin-gif-27288432.gif"  />
-</div>
 
 ###
 
@@ -41,11 +42,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rheen0/Rheen0/output/snake.svg" alt="Snake animation" />
 
 ###
