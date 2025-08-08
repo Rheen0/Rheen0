@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false)
-<!-- Title Section -->
-<h3 align="center">💻 Developer | 😁 Community Builder</h3>
 
 ```java
 while (isAwake) {
