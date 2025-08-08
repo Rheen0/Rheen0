@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false) -->
 
 ```java
 while (isAwake) {
@@ -35,4 +35,4 @@ while (isAwake) {
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false&section=footer)
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false&section=footer) -->
