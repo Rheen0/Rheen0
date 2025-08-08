@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false)
 <!-- Title Section -->
-## 💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner
+<h3 align="center">💻 Developer | 😁 Community Builder | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
 ```java
 while (isAwake) {
