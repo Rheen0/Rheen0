@@ -1,4 +1,6 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false) -->
+<p align="center">
+  <img src="https://i.imgur.com/kRj0Qzs.gif" alt="Neon Light Effect" />
+</p>
 
 ```java
 while (isAwake) {
