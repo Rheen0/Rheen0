@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/vAZ4SZp.gif" alt="Neon Light Effect" />
+  <img src="https://i.imgur.com/m1T2PmY.gif" alt="Neon Light Effect" />
 </p>
 
 ```java
