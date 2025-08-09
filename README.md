@@ -18,7 +18,7 @@ while (isAwake) {
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,django,php,laravel,graphql,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,django,php,laravel,graphql,cs,dotnet,postman" /> 
 </p>
 
 ### 📱 Mobile Development
@@ -28,7 +28,7 @@ while (isAwake) {
 
 ### 📊 Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
 </p>
 
 ### ☁️ Cloud & DevOps
