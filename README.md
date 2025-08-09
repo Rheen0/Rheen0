@@ -3,6 +3,16 @@
 </p>
 
 
+```java
+while (isAwake) {
+    code();
+    learn();
+    create();
+    repeat();
+}
+```
+
+
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
