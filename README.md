@@ -35,6 +35,8 @@ while (isAwake) {
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
     <br />
     <br />
+    <img src="AI.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
+    <img src="DL.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
     <img src="DE-Assoc" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
 </p>
 
