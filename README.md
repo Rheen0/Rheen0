@@ -33,6 +33,9 @@ while (isAwake) {
 ### 📊 Data
 <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
+    <br />
+    <br />
+    <img src="DE-Assoc" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
 </p>
 
 ### ☁️ Cloud & DevOps
