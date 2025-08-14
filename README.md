@@ -17,7 +17,7 @@ while (isAwake) {
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vite,bootstrap,tailwind,threejs,jquery,figma" />
 </p>
 
 ### ⚙️ Backend
@@ -43,7 +43,7 @@ while (isAwake) {
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,firebase,supabase,vercel" />
 </p>
 
 
