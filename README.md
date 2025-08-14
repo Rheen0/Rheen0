@@ -38,6 +38,7 @@ while (isAwake) {
     <img src="AI.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
     <img src="DL.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
     <img src="DE-Assoc" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
+   <img src="AI-eng.png" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
 </p>
 
 ### ☁️ Cloud & DevOps
