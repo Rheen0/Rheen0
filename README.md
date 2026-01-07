@@ -10,4 +10,4 @@
 [<img src="DE-Assoc" alt="Data Engineer" height="50">](https://www.datacamp.com/certificate/DEA0010574254561)
 [<img src="AI-eng.png" alt="AI Engineer" height="50">](https://www.datacamp.com/certificate/AIEDA0014108792601)
 
-For projects, see my pinned repositories below.
+For projects, visit my portfolio or see my pinned repositories below.
