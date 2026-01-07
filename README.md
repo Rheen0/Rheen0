@@ -1,45 +1,16 @@
+### Hi, I'm Rhandie Sales.
 
-<p align="center">
-  <img src="https://i.imgur.com/m1T2PmY.gif" alt="Neon Light Effect" />
-</p>
+**IT Student** working with **cloud and software development technologies**.
 
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white)
+![Microsoft%20Azure](https://img.shields.io/badge/Microsoft_Azure-111111?style=flat&logo=microsoftazure&logoColor=white)
 
+---
 
+### Certifications
+[<img src="LevelMSA.png" alt="MSA" height="56" />](https://www.credly.com/badges/9bd11bf1-0da1-496a-a454-b9dc1a122c83)[<img src="LevelBeta.png" alt="MSA Beta" height="56" />](https://www.credly.com/badges/9bd11bf1-0da1-496a-a454-b9dc1a122c83)<br><br>
+[<img src="AI.avif" alt="AI Fundamentals" height="56" />](https://www.datacamp.com/skill-verification/AIF0025502077891) [<img src="DL.avif" alt="Data Literacy" height="56" />](https://www.datacamp.com/skill-verification/DL0038443684392) [<img src="DE-Assoc" alt="Data Engineer" height="56" />](https://www.datacamp.com/certificate/DEA0010574254561) [<img src="AI-eng.png" alt="AI Engineer" height="56" />](https://www.datacamp.com/certificate/AIEDA0014108792601)
 
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vite,bootstrap,tailwind,threejs,jquery,figma" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,django,php,laravel,graphql,cs,dotnet,postman" /> 
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
-</p>
-
-### 📊 Data
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
-    <br />
-    <br />
-    <img src="AI.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
-    <img src="DL.avif" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
-    <img src="DE-Assoc" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
-   <img src="AI-eng.png" alt="DE Assoc" style="height: 3.5rem; width: 3rem;" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,firebase,supabase,vercel" />
-</p>
-
-
-
-<!--![footer](https://capsule-render.vercel.app/api?type=waving&height=150&reversal=false&section=footer) -->
