@@ -1,7 +1,7 @@
 <div>
 
 <!-- Optional right-side GIF -->
-<img src="https://media.tenor.com/V9XG4Lp_SN0AAAAi/rat-dance.gif" height="250" align="right" />
+<!-- <img src="https://media.tenor.com/V9XG4Lp_SN0AAAAi/rat-dance.gif" height="250" align="right" /> -->
 
 ### Hi, I'm Rhandie J. Sales Jr.
 *IT Student working with cloud and software development technologies*
